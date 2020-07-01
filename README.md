@@ -23,6 +23,13 @@ or just [go](https://github.com/ShuzhouFoundation/ShuZip/releases)!
 Copy this snippet of HTML code and change the bits to your need:
 ```Markdown
 <noscript>
-  <p>Shuzhou ShuZip Badge Needs Javascript. Please enable javascript to continue.</p>
+<p>Shuzhou ShuZip Badge Needs Javascript. Please enable javascript to continue.</p>
 </noscript>
+<div id="ShuZip-Linkio.button" style="margin-top: 10px; margin-bottom: 10px;">
+<a href="https://github.com/ShuzhouFoundation/ShuZip/releases" style="outline: none; border: none;">
+<img style="outline: none; border: none;" src="https://raw.githubusercontent.com/ShuzhouFoundation/ShuZip/master/pictures/downloadzipviashuziphash.png" alt="Download ShuZip">
+</a>
+<p>Hash ID = {enter-hash-id-here}</p>
+  <p>Password = {enter-password-if-needed}</p>
+</div>
 ```
