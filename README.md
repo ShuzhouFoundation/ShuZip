@@ -1,5 +1,5 @@
 ## Download Our New Releases
-### Shuzhou ShuZIp
+### Shuzhou ShuZip
 ### [v1.01-alpha-0701](https://shuzhoufoundation.github.io/downloads)
 ## Introduction to ShuZip
 ### What is ShuZip?
