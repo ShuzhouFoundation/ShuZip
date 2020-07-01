@@ -1,6 +1,6 @@
 ## Download Our New Releases
 ### Shuzhou ShuZip
-### [v1.01-alpha-0701](https://shuzhoufoundation.github.io/downloads)
+### [v1.01-alpha-0701](https://shuzhouliu.github.io/downloads)
 ## Introduction to ShuZip
 ### What is ShuZip?
 ShuZip is an encrypted zip with passwords or just ShuHash Links.
